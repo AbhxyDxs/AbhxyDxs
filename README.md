@@ -91,7 +91,7 @@
 ## Connect with me:
 <p align="center">
 
-<a href = "www.linkedin.com/in/4bhxy/"><img src="img/icon/Social/LinkedIN.png" width="40px"/></a>
+<a href = "https://www.linkedin.com/in/4bhxy/"><img src="img/icon/Social/LinkedIN.png" width="40px"/></a>
 <a href = "https://www.facebook.com/Abhay.Das.DamOdar/"><img src="img/icon/Social/Fb.png" width="40px"/></a>
 <a href = "https://www.instagram.com/4bhxy"><img src="img/icon/Social/Insta.png" width="40px"/></a>
 <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="img/icon/Social/YT.png" width="40px"/></a>
