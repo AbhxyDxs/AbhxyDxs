@@ -1,7 +1,111 @@
-- 👋 Hi, I’m @AbhxyDxs
-- 👀 I’m interested in Anime,Art,Movies and obviously Programming !!
+<a href="#"><img width="100%" height="auto" src="img/IntroBG2.png" height="175px"/></a>
+<h1 align="center">Hey <img src="img/wave.gif" width="30px">, I'm Abhay</h1> 
 
-<!---
-AbhxyDxs/AbhxyDxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">I'm an Art and Technology enthusist .</h3>
+<h3 align="center">📌 Kerala, India 🌴 <img src="img/icon/IN.svg" width="15px"></h3>
+
+
+## 🙋‍♂️ About Me
+
+<!-- - 🔭 I’m currently working on **[Wut?](https://Link)** -->
+
+- 🌱 I’m currently learning **Python**
+
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolioLink)**
+
+- 📫 Reach me at **4bhay.exe@gmail.com**
+
+- ⚡ 
+
+## 🚀 Languages
+
+<p align="left"> 
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="img/icon/Lang/C.png" width="45px" />  </a>
+    <a href="https://www.cplusplus.com/" target="_blank"> <img src="img/icon/Lang/Cpp.png" width="45px" />  </a>  
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/icon/Lang/CSharp.png" width="45px" />  </a>
+    <a href="https://www.java.com" target="_blank"> <img src="img/icon/Lang/Java.png" width="45px" />  </a>
+    <a href="https://html.com/" target="_blank"> <img src="img/icon/Lang/HTML.png" width="45px" />  </a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="img/icon/Lang/CSS.png" width="45px" />  </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="img/icon/Lang/JS.png" width="45px" />  </a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="img/icon/Lang/SQL.png" width="45px" />  </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="img/icon/Lang/Python.png" width="45px" />  </a>    
+   
+</p>
+
+## 🚀 Tools
+
+<p align="left"> 
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="img/icon/Tools/Ps.png" width="50px" />  </a>
+    <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img src="img/icon/Tools/Lr.png" width="50px" />  </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="img/icon/Tools/Ai.png" width="50px" />  </a>
+    <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="img/icon/Tools/Pr.png" width="50px" />  </a>
+    <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="img/icon/Tools/Ae.png" width="50px" />  </a>
+    <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> <img src="img/icon/Tools/Xd.png" width="50px" />  </a> 
+    <a href="https://www.office.com/" target="_blank"> <img src="img/icon/Tools/MSW.png" width="50px" />  </a>
+    <a href="https://www.office.com/" target="_blank"> <img src="img/icon/Tools/MSPP.png" width="50px" />  </a>
+    <a href="https://www.office.com/" target="_blank"> <img src="img/icon/Tools/MSExcell.png" width="50px" />  </a>
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="img/icon/Tools/AndroidStudio.png" width="50px" />  </a>
+    <a href="https://www.blender.org/" target="_blank"> <img src="img/icon/Tools/Blender.png" width="50px" />  </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="img/icon/Tools/Firebase.png" width="50px" />  </a>
+    <a href="https://cloud.google.com/" target="_blank"> <img src="img/icon/Tools/GCP.png" width="50px" />  </a>
+    <a href="https://www.gimp.org/" target="_blank"> <img src="img/icon/Tools/Gimp.png" width="50px" />  </a>
+    <a href="https://inkscape.org/" target="_blank"> <img src="img/icon/Tools/Inkscape.png" width="50px" />  </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="img/icon/Tools/MSVS.png" width="50px" />  </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="img/icon/Tools/MySQL.png" width="50px" />  </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="img/icon/Tools/PSQL.png" width="50px" />  </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="img/icon/Tools/Git.png" width="50px" />  </a>
+    <a href="https://github.com/" target="_blank"> <img src="img/icon/Tools/GitHub.png" width="50px" />  </a>
+
+    
+
+
+<hr>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/AbhxyDxs/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhxyDxs&theme=dark&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D&fire=84C2FF&ring=CCB1FF&currStreakNum=84C2FF&currStreakLabel=CCB1FF&sideNums=84C2FF&sideLabels=CCB1FF"/>
+    </a>
+</p>
+<!--
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/AbhxyDxs/github-readme-streak-stats"><img alt="Abhay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhxyDxs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <a href="https://github.com/AbhxyDxs/github-readme-streak-stats"><img alt="Abhay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhxyDxs&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
+
+<br/>
+<br/>
+
+<a href="https://github.com/AbhxyDxs/github-readme-activity-graph"><img alt="Abhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhxyDxs&bg_color=060A0CD0&color=84c2ff&line=ccb1ff&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="center">
+
+<a href = "www.linkedin.com/in/4bhxy/"><img src="img/icon/Social/LinkedIN.png" width="40px"/></a>
+<a href = "https://www.facebook.com/Abhay.Das.DamOdar/"><img src="img/icon/Social/Fb.png" width="40px"/></a>
+<a href = "https://www.instagram.com/4bhxy"><img src="img/icon/Social/Insta.png" width="40px"/></a>
+<a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="img/icon/Social/YT.png" width="40px"/></a>
+
+
+</p>
+
+<!-- ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AbxyDxs">
+  </a>
+<a href="https://github.com/AbxyDxs?tab=followers"><img src="https://img.shields.io/github/followers/AbxyDxs?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+Resources -
+ [Icons](https://icons8.com/icons/) and
+ [Art](https://dev.to/annarankin)
+
