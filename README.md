@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="img/IntroBG2.png" height="100px"/></a>
+<p align="center"><a href="#"><img  width="40%" height="40%"  src="img/IntroBG2.png" /></a></p>
 <h1 align="center">Hey <img src="img/wave.gif" width="30px">, I'm Abhay</h1> 
 
 <h3 align="center">I'm an Art and Technology enthusist .</h3>
@@ -16,8 +16,8 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolioLink)**
 
 - 📫 Reach me at **4bhay.exe@gmail.com**
-
-- ⚡ 
+<!--
+- ⚡ -->
 
 ## 🚀 Languages
 
