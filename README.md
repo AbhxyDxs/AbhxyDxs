@@ -1,4 +1,4 @@
-<a href="#"><img align="center" width="50%" height="50%" src="img/IntroBG2.png" height="175px"/></a>
+<a href="#"><img width="25%" height="25%" src="img/IntroBG2.png" /></a>
 <h1 align="center">Hey <img src="img/wave.gif" width="30px">, I'm Abhay</h1> 
 
 <h3 align="center">I'm an Art and Technology enthusist .</h3>
