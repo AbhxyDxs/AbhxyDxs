@@ -5,21 +5,21 @@
 <h3 align="center">📌 Kerala, India 🌴 <img src="img/icon/IN.svg" width="15px"></h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 <!-- - 🔭 I’m currently working on **[Wut?](https://Link)** -->
 
-- 🌱 I’m currently learning **Python**
+- I’m currently learning **Python**
 
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+<!-- - I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolioLink)**
+- All of my projects are available at **[My Portfolio](https://portfolioLink)**
 
-- 📫 Reach me at **4bhay.exe@gmail.com**
+- Reach me at **4bhay.exe@gmail.com**
 <!--
 - ⚡ -->
 
-## 🚀 Languages
+## Languages
 
 <p align="left"> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="img/icon/Lang/C.png" width="45px" />  </a>
@@ -34,7 +34,7 @@
    
 </p>
 
-## 🚀 Tools
+## Tools
 
 <p align="left"> 
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="img/icon/Tools/Ps.png" width="50px" />  </a>
