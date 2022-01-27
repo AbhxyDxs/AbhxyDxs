@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **[Wut?](https://Link)** -->
 
-- I’m currently learning **Python**
+- I’m currently learning **<b>Python</b>**
 
 <!-- - I’m looking to collaborate on **OpenSource Projects** -->
 
