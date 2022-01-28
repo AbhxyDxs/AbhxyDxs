@@ -11,7 +11,7 @@
 
 - I’m currently learning **<b>Python</b>**
 
-<!-- - I’m looking to collaborate on **OpenSource Projects** -->
+<!-- - I’m looking to collaborate on **OpenSource Projects xD** -->
 
 - All of my projects are available at **[My Portfolio](https://portfolioLink)**
 
