@@ -5,7 +5,7 @@
 <h3 align="center">📌 Kerala, India 🌴 <img src="img/icon/IN.svg" width="15px"></h3>
 
 
-## About Me
+<!-- ## About Me
 
 <!-- - 🔭 I’m currently working on **[Wut?](https://Link)** -->
 
@@ -109,3 +109,4 @@ Resources -
  [Icons](https://icons8.com/icons/) and
  [Art](https://dev.to/annarankin)
 
+-->
