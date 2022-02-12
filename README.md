@@ -4,8 +4,7 @@
 <h3 align="center">I'm an Art and Technology enthusiast .</h3>
 <h3 align="center">📌 Kerala, India 🌴 <img src="img/icon/IN.svg" width="15px"></h3>
 
-
-<!-- ## About Me
+ ## About Me
 
 <!-- - 🔭 I’m currently working on **[Wut?](https://Link)** -->
 
@@ -17,7 +16,7 @@
 
 - Reach me at **4bhay.exe@gmail.com**
 <!--
-- ⚡ -->
+- ⚡ --> 
 
 ## Languages
 
@@ -109,4 +108,4 @@ Resources -
  [Icons](https://icons8.com/icons/) and
  [Art](https://dev.to/annarankin)
 
--->
+
