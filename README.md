@@ -1,22 +1,9 @@
 <p align="center"><a href="#"><img  width="40%" height="40%"  src="img/IntroBG2.png" /></a></p>
-<h1 align="center">Hey <img src="img/wave.gif" width="30px">, I'm Abhay</h1> 
+<h1 align="center">Hey, I'm Abhay</h1> 
 
 <h3 align="center">I'm an Art and Technology enthusiast .</h3>
-<h3 align="center">📌 Kerala, India 🌴 <img src="img/icon/IN.svg" width="15px"></h3>
+<h3 align="center">📌 Kerala, India </h3>
 
- ## About Me
-
-<!-- - 🔭 I’m currently working on **[Wut?](https://Link)** -->
-
-- I’m currently learning **<b>Python</b>**
-
-<!-- - I’m looking to collaborate on **OpenSource Projects xD:)** -->
-
-- All of my projects are available at **[My Portfolio](https://portfolioLink)**
-
-- Reach me at **4bhay.exe@gmail.com**
-<!--
-- ⚡ --> 
 
 ## Languages
 
@@ -87,25 +74,10 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="center">
 
-<a href = "https://www.linkedin.com/in/4bhxy/"><img src="img/icon/Social/LinkedIN.png" width="40px"/></a>
-<a href = "https://www.facebook.com/Abhay.Das.DamOdar/"><img src="img/icon/Social/Fb.png" width="40px"/></a>
-<a href = "https://www.instagram.com/4bhxy"><img src="img/icon/Social/Insta.png" width="40px"/></a>
-<a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="img/icon/Social/YT.png" width="40px"/></a>
-
-
-</p>
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AbxyDxs">
   </a>
 <a href="https://github.com/AbxyDxs?tab=followers"><img src="https://img.shields.io/github/followers/AbxyDxs?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
-Resources -
- [Icons](https://icons8.com/icons/) and
- [Art](https://dev.to/annarankin)
-
-
