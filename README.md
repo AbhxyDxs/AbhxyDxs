@@ -5,7 +5,7 @@
 <h3 align="center">📌 Kerala, India </h3>
 
 
-## Languages
+<!--## Languages
 
 <p align="left"> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="img/icon/Lang/C.png" width="45px" />  </a>
@@ -46,14 +46,14 @@
 
     
 
-
+-->
 <hr>
 
 <br/>
 
 <p align="center">
     <a href="https://github.com/AbhxyDxs/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhxyDxs&theme=dark&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D&fire=84C2FF&ring=CCB1FF&currStreakNum=84C2FF&currStreakLabel=CCB1FF&sideNums=84C2FF&sideLabels=CCB1FF"/>
+        <img title="🔥" alt="Abhay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhxyDxs&theme=dark&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D&fire=84C2FF&ring=CCB1FF&currStreakNum=84C2FF&currStreakLabel=CCB1FF&sideNums=84C2FF&sideLabels=CCB1FF"/>
     </a>
 </p>
 <!--
@@ -68,11 +68,11 @@
 
 <br/>
 <br/>
-
+<!--
 <a href="https://github.com/AbhxyDxs/github-readme-activity-graph"><img alt="Abhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhxyDxs&bg_color=060A0CD0&color=84c2ff&line=ccb1ff&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 
 
